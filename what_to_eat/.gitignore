@@ -1,0 +1,30 @@
+# Maven build files
+target/
+*.class
+*.jar
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Secrets and credentials
+.env
+credentials.json
+serviceAccountKey.json
+firebase-adminsdk*.json
+client_secret*.json
+token.json
+tokens/
+
+
+
+google-calendar-tokens/

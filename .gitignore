@@ -1,0 +1,14 @@
+
+# Local archives and generated files
+/what_to_eat.zip
+/what_to_eat/target/
+/what_to_eat/.vscode/
+
+# Local credentials
+/what_to_eat/google-calendar-tokens/
+**/.env
+**/.env.*
+!**/.env.example
+**/credentials.json
+**/serviceAccountKey.json
+/what_to_eat/src/main/resources/WTE-API.json
